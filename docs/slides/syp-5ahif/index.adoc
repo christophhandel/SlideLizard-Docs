@@ -2,13 +2,13 @@
 = SLideLizard Insights Portal
 ifndef::imagesdir[:imagesdir: ../../images]
 :notitle:
-:title-slide-background-image: meeting.jpg
+//:title-slide-background-image: meeting.jpg
 :customcss: style.css
 
 [.text-left]
 Aggregierung und Visualisierung von Daten
 in Form eines Dashboards.
-
+image::main.jpeg[background, float="right", align="top"]
 
 [.lightbg, background-opacity="0.8"]
 == Die Firma SlideLizard
