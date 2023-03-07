@@ -8,7 +8,8 @@ ifndef::imagesdir[:imagesdir: ../../images]
 [.text-left]
 Aggregierung und Visualisierung von Daten
 in Form eines Dashboards.
-image::main.jpeg[background, float="right", align="top"]
+
+image::meeting.jpg[background, float="right", align="top"]
 
 [.lightbg, background-opacity="0.8"]
 == Die Firma SlideLizard
