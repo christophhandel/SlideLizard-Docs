@@ -27,8 +27,8 @@ image::questionmark.jpg[background, size=cover]
 image::main.jpeg[background, size=cover]
 
 * Ebene für einsehbares Zahlen-/Datenmaterial
-* optimierte sowie aggregierte KPIs
-* Nutzen für Kunden aufzeigen zu können
+* Optimierte sowie aggregierte KPIs
+* Den Nutzen für Kunden aufzeigen
 
 [.lightbg, background-opacity="0.8"]
 == Welche Daten werden visualisiert?
@@ -47,7 +47,7 @@ image::gear.jpg[background, size=cover]
 * Live-System darf nicht performance technisch betroffen sein
 
 == Systemarchitektur
-image::Systemarchitektur-SL.png[background, size=cover,width=50%]
+image::Systemarchitektur-SL.png[background,width=50%]
 
 [.text-left]
 == Live-Demo
