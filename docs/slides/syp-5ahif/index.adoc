@@ -2,7 +2,7 @@
 = SLideLizard Insights Portal
 ifndef::imagesdir[:imagesdir: ../../images]
 :notitle:
-//:title-slide-background-image: meeting.jpg
+//:title-slide-background-image: meeting.jpg[background, float="right", align="top"]
 :customcss: style.css
 
 [.text-left]
@@ -53,6 +53,6 @@ image::Systemarchitektur-SL.png[background,width=50%]
 [.text-left]
 == Live-Demo
 
-image::demo.jpg[background, size=cover]
+image::demo.jpg[background, size=cover,width=100%]
 
-* https://student.cloud.htl-leonding.ac.at/n.hirsch/app[Dashboard^]
+* https://dpdashboard.grafana.net/d/dVjo4P44k/slidelizard?orgId=1&from=1677691897822&to=1677692497822[Dashboard^]
