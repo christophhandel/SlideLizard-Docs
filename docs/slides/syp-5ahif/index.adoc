@@ -2,7 +2,7 @@
 = SLideLizard Insights Portal
 ifndef::imagesdir[:imagesdir: ../../images]
 :notitle:
-:title-slide-background-image: avg.jpg
+:title-slide-background-image: meeting.jpg
 :customcss: style.css
 
 [.text-left]
@@ -12,7 +12,7 @@ in Form eines Dashboards.
 
 [.lightbg, background-opacity="0.8"]
 == Die Firma SlideLizard
-image::meeting.jpg[background, size=cover]
+image::main.jpeg[background, size=cover]
 
 * international operierender Technologieanbieter
 * führt durch deren Produktsuite, Unternehmen zu mehr Erfolg
@@ -24,7 +24,7 @@ image::questionmark.jpg[background, size=cover]
 
 [.lightbg, background-opacity="0.8"]
 == Was wird durch das Dashboard geboten?
-image::meeting.jpg[background, size=cover]
+image::main.jpeg[background, size=cover]
 
 * Ebene für einsehbares Zahlen-/Datenmaterial
 * optimierte sowie aggregierte KPIs
@@ -47,11 +47,11 @@ image::gear.jpg[background, size=cover]
 * Live-System darf nicht performance technisch betroffen sein
 
 == Systemarchitektur
-image::Systemarchitektur-SL.png[background, size=cover]
+image::Systemarchitektur-SL.png[background, size=cover,width=50%]
 
 [.text-left]
 == Live-Demo
 
-image::avg.jpg[background, size=cover]
+image::demo.jpg[background, size=cover]
 
-test
+* https://student.cloud.htl-leonding.ac.at/n.hirsch/app[Dashboard^]
