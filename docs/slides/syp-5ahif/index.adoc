@@ -1,0 +1,55 @@
+[beeyond]
+= SLideLizard Insights Portal
+ifndef::imagesdir[:imagesdir: ../../images]
+:notitle:
+:title-slide-background-image: avg.jpg
+:customcss: style.css
+
+[.text-left]
+Aggregierung und Visualisierung von Daten
+in Form eines Dashboards.
+
+
+[.lightbg, background-opacity="0.8"]
+== Die Firma SlideLizard
+image::meeting.jpg[background, size=cover]
+
+* international operierender Technologieanbieter
+* führt durch deren Produktsuite, Unternehmen zu mehr Erfolg
+* Suite: CREATOR, LIVE und INSIGHTS
+
+[.lightbg,background-opacity="0.9"]
+== Wofür benötigt die Firma ein Dashboard?
+image::questionmark.jpg[background, size=cover]
+
+[.lightbg, background-opacity="0.8"]
+== Was wird durch das Dashboard geboten?
+image::meeting.jpg[background, size=cover]
+
+* Ebene für einsehbares Zahlen-/Datenmaterial
+* optimierte sowie aggregierte KPIs
+* Nutzen für Kunden aufzeigen zu können
+
+[.lightbg, background-opacity="0.8"]
+== Welche Daten werden visualisiert?
+image::helping.png[background, size=cover]
+
+• "Anzahl an abgehaltenen Präsentationen"
+• "Prozent der aus geschickten Präsentationen die geöffnet wurden"
+• "Anzahl an durchschnittlichen Teilnehmern pro Präsentationen"
+
+[.lightbg, background-opacity="0.8"]
+== Anforderungen und Besonderheiten
+image::gear.jpg[background, size=cover]
+
+* generischer Systemaufbau
+* gleichzeitig eine NoSQL/relationale Datenbanken
+* Live-System darf nicht performance technisch betroffen sein
+
+== Systemarchitektur
+image::Systemarchitektur-SL.png[background, size=cover]
+
+[.text-left]
+== Live-Demo
+
+image::avg.jpg[background, size=cover]
